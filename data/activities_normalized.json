@@ -6576,5 +6576,18 @@
     "start_date_local": "2026-03-13T08:33:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 21404.0,
+    "elevation_gain": 151.0,
+    "id": "17731567718",
+    "moving_time": 5555.0,
+    "name": "NYC Half Marathon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-15T07:23:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
