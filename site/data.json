@@ -4562,6 +4562,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17731567718",
       "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 16,
+      "name": "Post-NY blues \ud83e\udd72",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17759825261",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8889,6 +8898,15 @@
           "distance": 21404.0,
           "elevation_gain": 151.0,
           "moving_time": 5555.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17759825261"
+          ],
+          "count": 1,
+          "distance": 10584.4,
+          "elevation_gain": 225.0,
+          "moving_time": 3238.0
         }
       },
       "Swim": {
@@ -9113,7 +9131,7 @@
       }
     }
   },
-  "generated_at": "2026-03-17T15:54:29.184576+00:00",
+  "generated_at": "2026-03-18T16:00:31.017304+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
