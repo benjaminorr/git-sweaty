@@ -4571,6 +4571,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17759825261",
       "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 20,
+      "name": "Gloomachusetts",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/17786345333",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9116,6 +9125,15 @@
           "distance": 914.4,
           "elevation_gain": 0.0,
           "moving_time": 1529.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17786345333"
+          ],
+          "count": 1,
+          "distance": 1371.6,
+          "elevation_gain": 0.0,
+          "moving_time": 2348.0
         }
       },
       "Walk": {
@@ -9131,7 +9149,7 @@
       }
     }
   },
-  "generated_at": "2026-03-19T15:42:43.142965+00:00",
+  "generated_at": "2026-03-20T15:33:34.975284+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
