@@ -6628,5 +6628,18 @@
     "start_date_local": "2026-03-20T12:32:15Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 8482.3,
+    "elevation_gain": 66.0,
+    "id": "17808862268",
+    "moving_time": 2579.0,
+    "name": "this pb&j was the best part of my week",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-21T17:56:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
