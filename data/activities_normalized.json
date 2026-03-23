@@ -6641,5 +6641,18 @@
     "start_date_local": "2026-03-21T17:56:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 5205.1,
+    "elevation_gain": 79.0,
+    "id": "17822300022",
+    "moving_time": 1642.0,
+    "name": "sloggy",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-22T18:30:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
