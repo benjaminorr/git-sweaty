@@ -4616,6 +4616,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17847002850",
       "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 16,
+      "name": "I love an overcast 60\u00b0 \ud83c\udf2b\ufe0f",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17870037534",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8979,6 +8988,15 @@
           "distance": 6923.4,
           "elevation_gain": 51.0,
           "moving_time": 1848.0
+        },
+        "2026-03-26": {
+          "activity_ids": [
+            "17870037534"
+          ],
+          "count": 1,
+          "distance": 12050.9,
+          "elevation_gain": 66.0,
+          "moving_time": 3124.0
         }
       },
       "Swim": {
@@ -9221,7 +9239,7 @@
       }
     }
   },
-  "generated_at": "2026-03-26T16:02:23.771070+00:00",
+  "generated_at": "2026-03-27T15:41:34.492643+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

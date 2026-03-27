@@ -6667,5 +6667,18 @@
     "start_date_local": "2026-03-24T18:11:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 12050.9,
+    "elevation_gain": 66.0,
+    "id": "17870037534",
+    "moving_time": 3124.0,
+    "name": "I love an overcast 60\u00b0 \ud83c\udf2b\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-26T16:04:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
