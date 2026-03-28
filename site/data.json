@@ -4625,6 +4625,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17870037534",
       "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 12,
+      "name": "chili momo came back with a vengeance",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/17879165531",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9224,6 +9233,15 @@
           "distance": 960.1,
           "elevation_gain": 0.0,
           "moving_time": 1524.0
+        },
+        "2026-03-27": {
+          "activity_ids": [
+            "17879165531"
+          ],
+          "count": 1,
+          "distance": 754.4,
+          "elevation_gain": 0.0,
+          "moving_time": 1197.0
         }
       },
       "Walk": {
@@ -9239,7 +9257,7 @@
       }
     }
   },
-  "generated_at": "2026-03-27T15:41:34.492643+00:00",
+  "generated_at": "2026-03-28T15:21:44.087080+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
