@@ -6693,5 +6693,18 @@
     "start_date_local": "2026-03-27T12:39:25Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 9922.1,
+    "elevation_gain": 219.0,
+    "id": "17894586607",
+    "moving_time": 3066.0,
+    "name": "It was good until my stomach said it wasn't",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T18:47:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
