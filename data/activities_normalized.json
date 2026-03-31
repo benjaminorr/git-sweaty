@@ -6719,5 +6719,18 @@
     "start_date_local": "2026-03-29T16:34:09Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 1097.3,
+    "elevation_gain": 0.0,
+    "id": "17914706962",
+    "moving_time": 1923.0,
+    "name": "Shared the pool with a robot again",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-03-30T12:26:55Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
