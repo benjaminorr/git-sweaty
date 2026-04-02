@@ -6745,5 +6745,18 @@
     "start_date_local": "2026-03-31T14:57:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 9150.7,
+    "elevation_gain": 31.0,
+    "id": "17950520243",
+    "moving_time": 2228.0,
+    "name": "The April Shower",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-02T09:40:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
