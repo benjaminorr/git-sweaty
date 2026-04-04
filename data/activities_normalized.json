@@ -6758,5 +6758,18 @@
     "start_date_local": "2026-04-02T09:40:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 1371.6,
+    "elevation_gain": 0.0,
+    "id": "17965076399",
+    "moving_time": 2275.0,
+    "name": "I think FedEx is not good",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-03T11:54:09Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
