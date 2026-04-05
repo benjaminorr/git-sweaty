@@ -6771,5 +6771,18 @@
     "start_date_local": "2026-04-03T11:54:09Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 11649.4,
+    "elevation_gain": 86.0,
+    "id": "17981127730",
+    "moving_time": 3226.0,
+    "name": "boy does that guy play a mean mandolin",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-04T18:52:05Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
