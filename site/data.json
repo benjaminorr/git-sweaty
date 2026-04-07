@@ -4697,6 +4697,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17981127730",
       "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 15,
+      "name": "slacklining counts as working out, right?",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18004338887",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9105,6 +9114,15 @@
           "distance": 11649.4,
           "elevation_gain": 86.0,
           "moving_time": 3226.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "18004338887"
+          ],
+          "count": 1,
+          "distance": 5421.0,
+          "elevation_gain": 136.0,
+          "moving_time": 1565.0
         }
       },
       "Swim": {
@@ -9383,7 +9401,7 @@
       }
     }
   },
-  "generated_at": "2026-04-06T15:37:05.457712+00:00",
+  "generated_at": "2026-04-07T16:04:13.461834+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
