@@ -6797,5 +6797,18 @@
     "start_date_local": "2026-04-06T15:07:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 12505.4,
+    "elevation_gain": 195.0,
+    "id": "18028535588",
+    "moving_time": 3817.0,
+    "name": "Sometimes bosses are chill like that",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-08T10:20:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
