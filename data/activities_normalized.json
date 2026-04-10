@@ -6810,5 +6810,18 @@
     "start_date_local": "2026-04-08T10:20:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 5062.8,
+    "elevation_gain": 58.0,
+    "id": "18046198593",
+    "moving_time": 1312.0,
+    "name": "Too nice to swim indoors",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-09T16:26:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
