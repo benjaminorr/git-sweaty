@@ -6862,5 +6862,18 @@
     "start_date_local": "2026-04-13T09:42:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 5054.4,
+    "elevation_gain": 25.0,
+    "id": "18113072794",
+    "moving_time": 1199.0,
+    "name": "This run brought to you by avocados+sleep deprivation",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-14T21:34:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
