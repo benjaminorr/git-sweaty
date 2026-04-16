@@ -6875,5 +6875,31 @@
     "start_date_local": "2026-04-14T21:34:07Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "18120195215",
+    "moving_time": 1581.0,
+    "name": "I restarted my computer today",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-15T11:34:01Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 4370.3,
+    "elevation_gain": 80.0,
+    "id": "18132503076",
+    "moving_time": 1422.0,
+    "name": "Forgot how good humidity tastes",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-16T09:58:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
