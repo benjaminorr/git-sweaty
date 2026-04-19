@@ -6914,5 +6914,18 @@
     "start_date_local": "2026-04-17T12:34:39Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 9974.9,
+    "elevation_gain": 203.0,
+    "id": "18164063299",
+    "moving_time": 3347.0,
+    "name": "Patellar tendinitis?",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T17:21:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

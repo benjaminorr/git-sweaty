@@ -4787,6 +4787,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18147678415",
       "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 17,
+      "name": "Patellar tendinitis?",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18164063299",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9258,6 +9267,15 @@
           "distance": 4370.3,
           "elevation_gain": 80.0,
           "moving_time": 1422.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18164063299"
+          ],
+          "count": 1,
+          "distance": 9974.9,
+          "elevation_gain": 203.0,
+          "moving_time": 3347.0
         }
       },
       "Swim": {
@@ -9563,7 +9581,7 @@
       }
     }
   },
-  "generated_at": "2026-04-18T15:28:42.688396+00:00",
+  "generated_at": "2026-04-19T15:28:49.341967+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
