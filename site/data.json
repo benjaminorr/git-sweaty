@@ -4796,6 +4796,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18164063299",
       "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 16,
+      "name": "I didn't know wifi could be this bad",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18177693855",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9566,6 +9575,15 @@
           "distance": 868.7,
           "elevation_gain": 0.0,
           "moving_time": 1417.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18177693855"
+          ],
+          "count": 1,
+          "distance": 960.1,
+          "elevation_gain": 0.0,
+          "moving_time": 1623.0
         }
       },
       "Walk": {
@@ -9581,7 +9599,7 @@
       }
     }
   },
-  "generated_at": "2026-04-19T15:28:49.341967+00:00",
+  "generated_at": "2026-04-20T16:01:49.048971+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

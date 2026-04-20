@@ -6927,5 +6927,18 @@
     "start_date_local": "2026-04-18T17:21:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 960.1,
+    "elevation_gain": 0.0,
+    "id": "18177693855",
+    "moving_time": 1623.0,
+    "name": "I didn't know wifi could be this bad",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-19T16:32:01Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
