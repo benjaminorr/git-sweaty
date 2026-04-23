@@ -4814,6 +4814,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18200448043",
       "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 18,
+      "name": "Weak Wednesday",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18218870208",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9294,6 +9303,15 @@
           "distance": 9974.9,
           "elevation_gain": 203.0,
           "moving_time": 3347.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18218870208"
+          ],
+          "count": 1,
+          "distance": 5450.7,
+          "elevation_gain": 82.0,
+          "moving_time": 1748.0
         }
       },
       "Swim": {
@@ -9617,7 +9635,7 @@
       }
     }
   },
-  "generated_at": "2026-04-22T16:01:49.529150+00:00",
+  "generated_at": "2026-04-23T16:24:52.675738+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
