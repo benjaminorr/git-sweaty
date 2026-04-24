@@ -6966,5 +6966,18 @@
     "start_date_local": "2026-04-22T18:41:25Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "18228490263",
+    "moving_time": 1544.0,
+    "name": "Legs are being mean",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-23T12:32:57Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
