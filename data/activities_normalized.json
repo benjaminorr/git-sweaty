@@ -6979,5 +6979,18 @@
     "start_date_local": "2026-04-23T12:32:57Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "18241632036",
+    "moving_time": 1449.0,
+    "name": "forgot my snack :(",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-24T12:33:00Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
