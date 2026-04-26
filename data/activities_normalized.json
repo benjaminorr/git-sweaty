@@ -6992,5 +6992,18 @@
     "start_date_local": "2026-04-24T12:33:00Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 8351.4,
+    "elevation_gain": 18.0,
+    "id": "18255988959",
+    "moving_time": 2652.0,
+    "name": "Pokemon Go is alive and well in Worcester",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-25T13:21:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
