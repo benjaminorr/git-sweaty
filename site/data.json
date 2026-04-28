@@ -4859,6 +4859,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18271400055",
       "year": 2026
+    },
+    {
+      "date": "2026-04-27",
+      "hour": 15,
+      "name": "My body excited the children",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18283288230",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9357,6 +9366,15 @@
           "distance": 8351.4,
           "elevation_gain": 18.0,
           "moving_time": 2652.0
+        },
+        "2026-04-27": {
+          "activity_ids": [
+            "18283288230"
+          ],
+          "count": 1,
+          "distance": 6201.4,
+          "elevation_gain": 11.0,
+          "moving_time": 1862.0
         }
       },
       "Swim": {
@@ -9707,7 +9725,7 @@
       }
     }
   },
-  "generated_at": "2026-04-27T16:19:07.164481+00:00",
+  "generated_at": "2026-04-28T16:31:37.598409+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

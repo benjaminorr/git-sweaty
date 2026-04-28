@@ -7018,5 +7018,18 @@
     "start_date_local": "2026-04-26T15:46:37Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 6201.4,
+    "elevation_gain": 11.0,
+    "id": "18283288230",
+    "moving_time": 1862.0,
+    "name": "My body excited the children",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-27T15:06:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
