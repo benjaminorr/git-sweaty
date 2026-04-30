@@ -7044,5 +7044,18 @@
     "start_date_local": "2026-04-28T12:29:25Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 960.1,
+    "elevation_gain": 0.0,
+    "id": "18314049768",
+    "moving_time": 1305.0,
+    "name": "Pool party I guess",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-29T21:13:50Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
