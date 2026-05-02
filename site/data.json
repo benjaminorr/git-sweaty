@@ -4895,6 +4895,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18326174454",
       "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 12,
+      "name": "found Yanze and took him swimming",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18336027561",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9764,6 +9773,15 @@
           "distance": 914.4,
           "elevation_gain": 0.0,
           "moving_time": 1359.0
+        },
+        "2026-05-01": {
+          "activity_ids": [
+            "18336027561"
+          ],
+          "count": 1,
+          "distance": 823.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1154.0
         }
       },
       "Walk": {
@@ -9779,7 +9797,7 @@
       }
     }
   },
-  "generated_at": "2026-05-01T15:45:01.405170+00:00",
+  "generated_at": "2026-05-02T15:37:12.297891+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
