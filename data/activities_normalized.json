@@ -7083,5 +7083,18 @@
     "start_date_local": "2026-05-01T12:37:36Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 12075.3,
+    "elevation_gain": 24.0,
+    "id": "18352295896",
+    "moving_time": 3774.0,
+    "name": "Elm pahk",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-02T18:04:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
