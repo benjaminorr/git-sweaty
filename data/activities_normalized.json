@@ -7109,5 +7109,18 @@
     "start_date_local": "2026-05-05T12:32:06Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "18401949413",
+    "moving_time": 1494.0,
+    "name": "yo who put the fruit flies in the shower",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-06T12:29:10Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
