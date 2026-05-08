@@ -7122,5 +7122,18 @@
     "start_date_local": "2026-05-06T12:29:10Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 15139.5,
+    "elevation_gain": 51.0,
+    "id": "18415345440",
+    "moving_time": 4724.0,
+    "name": "Semester is over, sky is blue",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-07T12:16:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
