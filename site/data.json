@@ -4940,6 +4940,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18415345440",
       "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 11,
+      "name": "No obligations walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18441727256",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 15,
+      "name": "Pretty heavy for a light drizzle ngl",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18443825671",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9465,6 +9483,15 @@
           "distance": 15139.5,
           "elevation_gain": 51.0,
           "moving_time": 4724.0
+        },
+        "2026-05-09": {
+          "activity_ids": [
+            "18443825671"
+          ],
+          "count": 1,
+          "distance": 5194.5,
+          "elevation_gain": 14.0,
+          "moving_time": 1802.0
         }
       },
       "Swim": {
@@ -9865,11 +9892,20 @@
           "distance": 3555.1,
           "elevation_gain": 28.0,
           "moving_time": 2876.0
+        },
+        "2026-05-09": {
+          "activity_ids": [
+            "18441727256"
+          ],
+          "count": 1,
+          "distance": 2635.8,
+          "elevation_gain": 17.0,
+          "moving_time": 2914.0
         }
       }
     }
   },
-  "generated_at": "2026-05-09T15:40:41.583439+00:00",
+  "generated_at": "2026-05-10T15:41:58.415270+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
