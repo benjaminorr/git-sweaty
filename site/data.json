@@ -4958,6 +4958,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18443825671",
       "year": 2026
+    },
+    {
+      "date": "2026-05-11",
+      "hour": 17,
+      "name": "someday I will be able to run hills again",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18469561969",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9492,6 +9501,15 @@
           "distance": 5194.5,
           "elevation_gain": 14.0,
           "moving_time": 1802.0
+        },
+        "2026-05-11": {
+          "activity_ids": [
+            "18469561969"
+          ],
+          "count": 1,
+          "distance": 8711.1,
+          "elevation_gain": 25.0,
+          "moving_time": 2904.0
         }
       },
       "Swim": {
@@ -9905,7 +9923,7 @@
       }
     }
   },
-  "generated_at": "2026-05-11T17:18:30.271347+00:00",
+  "generated_at": "2026-05-12T17:02:01.286014+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

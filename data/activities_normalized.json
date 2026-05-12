@@ -7161,5 +7161,18 @@
     "start_date_local": "2026-05-09T15:55:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 8711.1,
+    "elevation_gain": 25.0,
+    "id": "18469561969",
+    "moving_time": 2904.0,
+    "name": "someday I will be able to run hills again",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-11T17:17:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
