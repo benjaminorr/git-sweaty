@@ -4976,6 +4976,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18483441155",
       "year": 2026
+    },
+    {
+      "date": "2026-05-14",
+      "hour": 11,
+      "name": "sleepy leg \u2639\ufe0f",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18505822212",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9528,6 +9537,15 @@
           "distance": 10001.3,
           "elevation_gain": 20.0,
           "moving_time": 3391.0
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "18505822212"
+          ],
+          "count": 1,
+          "distance": 6165.5,
+          "elevation_gain": 14.0,
+          "moving_time": 2387.0
         }
       },
       "Swim": {
@@ -9941,7 +9959,7 @@
       }
     }
   },
-  "generated_at": "2026-05-13T17:06:41.563277+00:00",
+  "generated_at": "2026-05-14T16:55:32.668268+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
