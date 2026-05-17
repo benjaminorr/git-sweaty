@@ -7200,5 +7200,18 @@
     "start_date_local": "2026-05-14T11:02:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 8713.6,
+    "elevation_gain": 25.0,
+    "id": "18535255273",
+    "moving_time": 2799.0,
+    "name": "Existential dread \ud83d\udde3\ufe0f\ud83d\udde3\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-16T17:33:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
