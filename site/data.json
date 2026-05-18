@@ -4994,6 +4994,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18535255273",
       "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 19,
+      "name": "More baby laps",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18549465278",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9564,6 +9573,15 @@
           "distance": 8713.6,
           "elevation_gain": 25.0,
           "moving_time": 2799.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18549465278"
+          ],
+          "count": 1,
+          "distance": 4953.6,
+          "elevation_gain": 13.0,
+          "moving_time": 1663.0
         }
       },
       "Swim": {
@@ -9977,7 +9995,7 @@
       }
     }
   },
-  "generated_at": "2026-05-17T15:49:41.783451+00:00",
+  "generated_at": "2026-05-18T17:24:08.135543+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
