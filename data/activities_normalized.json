@@ -7226,5 +7226,31 @@
     "start_date_local": "2026-05-17T19:11:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 7880.0,
+    "elevation_gain": 51.0,
+    "id": "18572656394",
+    "moving_time": 2884.0,
+    "name": "lobster roll",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-19T08:20:57Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 4328.3,
+    "elevation_gain": 31.0,
+    "id": "18581107532",
+    "moving_time": 1601.0,
+    "name": "(\u2060;\u2060;\u2060;\u2060\u30fb\u2060_\u2060\u30fb\u2060)",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-20T07:58:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
