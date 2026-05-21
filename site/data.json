@@ -5021,6 +5021,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18581107532",
       "year": 2026
+    },
+    {
+      "date": "2026-05-21",
+      "hour": 11,
+      "name": "Pool hours not conducive to swimming",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18597150185",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10007,6 +10016,15 @@
           "distance": 914.4,
           "elevation_gain": 0.0,
           "moving_time": 1494.0
+        },
+        "2026-05-21": {
+          "activity_ids": [
+            "18597150185"
+          ],
+          "count": 1,
+          "distance": 1143.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1804.0
         }
       },
       "Walk": {
@@ -10031,7 +10049,7 @@
       }
     }
   },
-  "generated_at": "2026-05-20T17:48:58.997485+00:00",
+  "generated_at": "2026-05-21T17:26:00.319320+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
