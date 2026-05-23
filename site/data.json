@@ -5030,6 +5030,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18597150185",
       "year": 2026
+    },
+    {
+      "date": "2026-05-22",
+      "hour": 19,
+      "name": "losing fitness",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18614474187",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9627,6 +9636,15 @@
           "distance": 4328.3,
           "elevation_gain": 31.0,
           "moving_time": 1601.0
+        },
+        "2026-05-22": {
+          "activity_ids": [
+            "18614474187"
+          ],
+          "count": 1,
+          "distance": 6163.9,
+          "elevation_gain": 18.0,
+          "moving_time": 2011.0
         }
       },
       "Swim": {
@@ -10049,7 +10067,7 @@
       }
     }
   },
-  "generated_at": "2026-05-22T17:01:57.633001+00:00",
+  "generated_at": "2026-05-23T15:54:27.939058+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
