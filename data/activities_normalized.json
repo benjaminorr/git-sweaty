@@ -7278,5 +7278,18 @@
     "start_date_local": "2026-05-22T19:31:18Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 6987.5,
+    "elevation_gain": 16.0,
+    "id": "18640824681",
+    "moving_time": 2398.0,
+    "name": "Saw a goose poop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-24T16:59:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

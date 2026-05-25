@@ -5039,6 +5039,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18614474187",
       "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 16,
+      "name": "Saw a goose poop",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18640824681",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9645,6 +9654,15 @@
           "distance": 6163.9,
           "elevation_gain": 18.0,
           "moving_time": 2011.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18640824681"
+          ],
+          "count": 1,
+          "distance": 6987.5,
+          "elevation_gain": 16.0,
+          "moving_time": 2398.0
         }
       },
       "Swim": {
@@ -10067,7 +10085,7 @@
       }
     }
   },
-  "generated_at": "2026-05-24T15:53:47.644093+00:00",
+  "generated_at": "2026-05-25T16:57:59.105762+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
