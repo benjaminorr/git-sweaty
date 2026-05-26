@@ -7291,5 +7291,31 @@
     "start_date_local": "2026-05-24T16:59:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 9571.6,
+    "elevation_gain": 24.0,
+    "id": "18653241963",
+    "moving_time": 3178.0,
+    "name": "I miss not hurting",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-25T15:41:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 1234.4,
+    "elevation_gain": 0.0,
+    "id": "18663592116",
+    "moving_time": 2155.0,
+    "name": "yo what's with the gutteral throat noises in the shower",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-26T12:02:10Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
