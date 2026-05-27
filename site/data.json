@@ -5066,6 +5066,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18663592116",
       "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 12,
+      "name": "\"eat sunscreen\"",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18677523239",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9690,6 +9699,15 @@
           "distance": 9571.6,
           "elevation_gain": 24.0,
           "moving_time": 3178.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18677523239"
+          ],
+          "count": 1,
+          "distance": 8445.5,
+          "elevation_gain": 24.0,
+          "moving_time": 3095.0
         }
       },
       "Swim": {
@@ -10121,7 +10139,7 @@
       }
     }
   },
-  "generated_at": "2026-05-26T17:50:56.563972+00:00",
+  "generated_at": "2026-05-27T17:50:05.269824+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

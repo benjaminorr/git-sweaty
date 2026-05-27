@@ -7317,5 +7317,18 @@
     "start_date_local": "2026-05-26T12:02:10Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 8445.5,
+    "elevation_gain": 24.0,
+    "id": "18677523239",
+    "moving_time": 3095.0,
+    "name": "\"eat sunscreen\"",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-27T12:03:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
