@@ -5093,6 +5093,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18709221069",
       "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 19,
+      "name": "I get to have ice cream",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18721971317",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9726,6 +9735,15 @@
           "distance": 8445.5,
           "elevation_gain": 24.0,
           "moving_time": 3095.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18721971317"
+          ],
+          "count": 1,
+          "distance": 8698.6,
+          "elevation_gain": 21.0,
+          "moving_time": 2812.0
         }
       },
       "Swim": {
@@ -10175,7 +10193,7 @@
       }
     }
   },
-  "generated_at": "2026-05-30T15:58:09.031172+00:00",
+  "generated_at": "2026-05-31T15:59:05.484876+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
