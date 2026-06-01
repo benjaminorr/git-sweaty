@@ -7369,5 +7369,18 @@
     "start_date_local": "2026-05-30T19:16:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 3677.5,
+    "elevation_gain": 11.0,
+    "id": "18736317130",
+    "moving_time": 1222.0,
+    "name": "Quick oven run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T20:35:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
