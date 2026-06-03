@@ -7408,5 +7408,18 @@
     "start_date_local": "2026-06-02T12:19:39Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "18771747758",
+    "moving_time": 1716.0,
+    "name": "yeah these lanes are def longer \ud83e\uddd0",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-03T11:29:43Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
