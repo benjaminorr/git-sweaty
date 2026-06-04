@@ -5138,6 +5138,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18771747758",
       "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 12,
+      "name": "buh",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18786005751",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10232,6 +10241,15 @@
           "distance": 914.4,
           "elevation_gain": 0.0,
           "moving_time": 1716.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18786005751"
+          ],
+          "count": 1,
+          "distance": 914.4,
+          "elevation_gain": 0.0,
+          "moving_time": 1664.0
         }
       },
       "Walk": {
@@ -10265,7 +10283,7 @@
       }
     }
   },
-  "generated_at": "2026-06-03T18:39:11.147542+00:00",
+  "generated_at": "2026-06-04T17:38:05.796413+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
