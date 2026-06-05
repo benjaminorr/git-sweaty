@@ -5147,6 +5147,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18786005751",
       "year": 2026
+    },
+    {
+      "date": "2026-06-05",
+      "hour": 9,
+      "name": "The body yearns for high-intensity work \ud83d\ude13",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18797182812",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9807,6 +9816,15 @@
           "distance": 10942.2,
           "elevation_gain": 15.0,
           "moving_time": 4133.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18797182812"
+          ],
+          "count": 1,
+          "distance": 4925.9,
+          "elevation_gain": 11.0,
+          "moving_time": 1674.0
         }
       },
       "Swim": {
@@ -10283,7 +10301,7 @@
       }
     }
   },
-  "generated_at": "2026-06-04T17:38:05.796413+00:00",
+  "generated_at": "2026-06-05T17:06:48.849463+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
