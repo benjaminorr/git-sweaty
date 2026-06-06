@@ -7447,5 +7447,18 @@
     "start_date_local": "2026-06-05T09:29:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 9845.4,
+    "elevation_gain": 19.0,
+    "id": "18812134302",
+    "moving_time": 3575.0,
+    "name": "Might have an empanada later",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-06T10:41:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

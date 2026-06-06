@@ -5156,6 +5156,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18797182812",
       "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 10,
+      "name": "Might have an empanada later",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18812134302",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9825,6 +9834,15 @@
           "distance": 4925.9,
           "elevation_gain": 11.0,
           "moving_time": 1674.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18812134302"
+          ],
+          "count": 1,
+          "distance": 9845.4,
+          "elevation_gain": 19.0,
+          "moving_time": 3575.0
         }
       },
       "Swim": {
@@ -10301,7 +10319,7 @@
       }
     }
   },
-  "generated_at": "2026-06-05T17:06:48.849463+00:00",
+  "generated_at": "2026-06-06T16:01:13.042877+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
