@@ -5165,6 +5165,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18812134302",
       "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 12,
+      "name": "I'm jamming now",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18839192622",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10286,6 +10295,15 @@
           "distance": 914.4,
           "elevation_gain": 0.0,
           "moving_time": 1664.0
+        },
+        "2026-06-08": {
+          "activity_ids": [
+            "18839192622"
+          ],
+          "count": 1,
+          "distance": 1000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1596.0
         }
       },
       "Walk": {
@@ -10319,7 +10337,7 @@
       }
     }
   },
-  "generated_at": "2026-06-07T16:05:05.414303+00:00",
+  "generated_at": "2026-06-08T17:42:46.851287+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
