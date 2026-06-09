@@ -5174,6 +5174,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18839192622",
       "year": 2026
+    },
+    {
+      "date": "2026-06-09",
+      "hour": 12,
+      "name": "Lunch Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18853170018",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10304,6 +10313,15 @@
           "distance": 1000.0,
           "elevation_gain": 0.0,
           "moving_time": 1596.0
+        },
+        "2026-06-09": {
+          "activity_ids": [
+            "18853170018"
+          ],
+          "count": 1,
+          "distance": 914.4,
+          "elevation_gain": 0.0,
+          "moving_time": 1320.0
         }
       },
       "Walk": {
@@ -10337,7 +10355,7 @@
       }
     }
   },
-  "generated_at": "2026-06-08T17:42:46.851287+00:00",
+  "generated_at": "2026-06-09T17:17:10.799583+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
