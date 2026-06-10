@@ -5178,10 +5178,19 @@
     {
       "date": "2026-06-09",
       "hour": 12,
-      "name": "Lunch Swim",
+      "name": "All charged up",
       "subtype": "Swim",
       "type": "Swim",
       "url": "https://www.strava.com/activities/18853170018",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 12,
+      "name": "\u2022\u0301\u2060\u00a0\u2060\u00a0\u2060\u203f\u2060\u00a0\u2022\u0300",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18867380836",
       "year": 2026
     }
   ],
@@ -10322,6 +10331,15 @@
           "distance": 914.4,
           "elevation_gain": 0.0,
           "moving_time": 1320.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18867380836"
+          ],
+          "count": 1,
+          "distance": 914.4,
+          "elevation_gain": 0.0,
+          "moving_time": 1367.0
         }
       },
       "Walk": {
@@ -10355,7 +10373,7 @@
       }
     }
   },
-  "generated_at": "2026-06-09T17:17:10.799583+00:00",
+  "generated_at": "2026-06-10T17:49:36.597411+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

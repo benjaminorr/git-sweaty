@@ -7480,10 +7480,23 @@
     "elevation_gain": 0.0,
     "id": "18853170018",
     "moving_time": 1320.0,
-    "name": "Lunch Swim",
+    "name": "All charged up",
     "raw_activity_type": "Swim",
     "raw_type": "Swim",
     "start_date_local": "2026-06-09T12:33:25Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "18867380836",
+    "moving_time": 1367.0,
+    "name": "\u2022\u0301\u2060\u00a0\u2060\u00a0\u2060\u203f\u2060\u00a0\u2022\u0300",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-10T12:34:36Z",
     "type": "Swim",
     "year": 2026
   }
