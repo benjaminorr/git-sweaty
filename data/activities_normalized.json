@@ -7499,5 +7499,18 @@
     "start_date_local": "2026-06-10T12:34:36Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "18880413902",
+    "moving_time": 1579.0,
+    "name": "I miss running places",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-11T12:25:04Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
