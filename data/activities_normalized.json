@@ -7538,5 +7538,31 @@
     "start_date_local": "2026-06-14T09:56:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 10984.5,
+    "elevation_gain": 29.0,
+    "id": "18935725245",
+    "moving_time": 3924.0,
+    "name": "Yanze teaching me the good words",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-15T17:51:47Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "18946062748",
+    "moving_time": 1444.0,
+    "name": "Water nice and cold today",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-16T12:31:22Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
