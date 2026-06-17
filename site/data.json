@@ -5237,6 +5237,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18946062748",
       "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 11,
+      "name": "fun with fins ft. Yanze",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18959856262",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10430,6 +10439,15 @@
           "distance": 1000.0,
           "elevation_gain": 0.0,
           "moving_time": 1444.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18959856262"
+          ],
+          "count": 1,
+          "distance": 1300.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1407.0
         }
       },
       "Walk": {
@@ -10463,7 +10481,7 @@
       }
     }
   },
-  "generated_at": "2026-06-16T18:50:57.898955+00:00",
+  "generated_at": "2026-06-17T17:43:23.230175+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
