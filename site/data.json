@@ -5246,6 +5246,24 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18959856262",
       "year": 2026
+    },
+    {
+      "date": "2026-06-18",
+      "hour": 12,
+      "name": "Weak kick day",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18973877467",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 9,
+      "name": "Beautiful day to evade responsibility",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18984877321",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9951,6 +9969,15 @@
           "distance": 10984.5,
           "elevation_gain": 29.0,
           "moving_time": 3924.0
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "18984877321"
+          ],
+          "count": 1,
+          "distance": 8710.1,
+          "elevation_gain": 37.0,
+          "moving_time": 2824.0
         }
       },
       "Swim": {
@@ -10448,6 +10475,15 @@
           "distance": 1300.0,
           "elevation_gain": 0.0,
           "moving_time": 1407.0
+        },
+        "2026-06-18": {
+          "activity_ids": [
+            "18973877467"
+          ],
+          "count": 1,
+          "distance": 950.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1155.0
         }
       },
       "Walk": {
@@ -10481,7 +10517,7 @@
       }
     }
   },
-  "generated_at": "2026-06-17T17:43:23.230175+00:00",
+  "generated_at": "2026-06-19T17:10:27.053572+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

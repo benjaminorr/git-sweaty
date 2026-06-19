@@ -7577,5 +7577,31 @@
     "start_date_local": "2026-06-17T11:34:47Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 950.0,
+    "elevation_gain": 0.0,
+    "id": "18973877467",
+    "moving_time": 1155.0,
+    "name": "Weak kick day",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-18T12:34:22Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 8710.1,
+    "elevation_gain": 37.0,
+    "id": "18984877321",
+    "moving_time": 2824.0,
+    "name": "Beautiful day to evade responsibility",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-19T09:34:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
