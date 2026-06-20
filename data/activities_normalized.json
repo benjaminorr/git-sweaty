@@ -7603,5 +7603,18 @@
     "start_date_local": "2026-06-19T09:34:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 11053.9,
+    "elevation_gain": 61.0,
+    "id": "18999001952",
+    "moving_time": 3815.0,
+    "name": "I've now run 100+ miles just at Elm Park \ud83e\udee8",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-20T10:47:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
