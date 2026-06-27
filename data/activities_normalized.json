@@ -7668,5 +7668,31 @@
     "start_date_local": "2026-06-25T11:58:39Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 9741.8,
+    "elevation_gain": 17.0,
+    "id": "19077937530",
+    "moving_time": 3695.0,
+    "name": "Car on fire",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-26T16:18:36Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 4935.7,
+    "elevation_gain": 11.0,
+    "id": "19085899906",
+    "moving_time": 1651.0,
+    "name": "New shoe day",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-27T08:56:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
