@@ -7694,5 +7694,18 @@
     "start_date_local": "2026-06-27T08:56:48Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 7496.5,
+    "elevation_gain": 17.0,
+    "id": "19099390772",
+    "moving_time": 2267.0,
+    "name": "This felt good too",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T09:47:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
