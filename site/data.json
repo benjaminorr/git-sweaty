@@ -5336,6 +5336,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19099390772",
       "year": 2026
+    },
+    {
+      "date": "2026-06-29",
+      "hour": 19,
+      "name": "24hr migraine",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19116798859",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 9,
+      "name": "A couple more headache miles",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19124003965",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10095,6 +10113,24 @@
           "distance": 7496.5,
           "elevation_gain": 17.0,
           "moving_time": 2267.0
+        },
+        "2026-06-29": {
+          "activity_ids": [
+            "19116798859"
+          ],
+          "count": 1,
+          "distance": 4488.4,
+          "elevation_gain": 9.0,
+          "moving_time": 1443.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "19124003965"
+          ],
+          "count": 1,
+          "distance": 3664.3,
+          "elevation_gain": 10.0,
+          "moving_time": 1259.0
         }
       },
       "Swim": {
@@ -10661,7 +10697,7 @@
       }
     }
   },
-  "generated_at": "2026-06-29T16:16:53.715477+00:00",
+  "generated_at": "2026-06-30T15:47:26.959082+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
