@@ -5354,6 +5354,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19124003965",
       "year": 2026
+    },
+    {
+      "date": "2026-07-02",
+      "hour": 11,
+      "name": "goggles snapped",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19152546105",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-03",
+      "hour": 7,
+      "name": "Hot + Sleepy \ud83e\udd75",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19162687919",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10131,6 +10149,15 @@
           "distance": 3664.3,
           "elevation_gain": 10.0,
           "moving_time": 1259.0
+        },
+        "2026-07-03": {
+          "activity_ids": [
+            "19162687919"
+          ],
+          "count": 1,
+          "distance": 8521.9,
+          "elevation_gain": 17.0,
+          "moving_time": 3530.0
         }
       },
       "Swim": {
@@ -10664,6 +10691,15 @@
           "distance": 900.0,
           "elevation_gain": 0.0,
           "moving_time": 1450.0
+        },
+        "2026-07-02": {
+          "activity_ids": [
+            "19152546105"
+          ],
+          "count": 1,
+          "distance": 1000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1500.0
         }
       },
       "Walk": {
@@ -10697,7 +10733,7 @@
       }
     }
   },
-  "generated_at": "2026-07-02T15:43:45.594076+00:00",
+  "generated_at": "2026-07-03T15:37:17.982940+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
