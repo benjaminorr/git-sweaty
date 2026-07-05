@@ -7759,5 +7759,18 @@
     "start_date_local": "2026-07-03T07:37:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 8691.8,
+    "elevation_gain": 17.0,
+    "id": "19190190625",
+    "moving_time": 2669.0,
+    "name": "It's my Worcesterversary",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-05T09:25:55Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
