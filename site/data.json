@@ -5390,6 +5390,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/19203454665",
       "year": 2026
+    },
+    {
+      "date": "2026-07-07",
+      "hour": 11,
+      "name": "Wet again",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19216801736",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10736,6 +10745,15 @@
           "distance": 900.0,
           "elevation_gain": 0.0,
           "moving_time": 1245.0
+        },
+        "2026-07-07": {
+          "activity_ids": [
+            "19216801736"
+          ],
+          "count": 1,
+          "distance": 1120.1,
+          "elevation_gain": 0.0,
+          "moving_time": 1626.0
         }
       },
       "Walk": {
@@ -10769,7 +10787,7 @@
       }
     }
   },
-  "generated_at": "2026-07-07T15:52:00.089687+00:00",
+  "generated_at": "2026-07-08T15:43:43.788006+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

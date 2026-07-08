@@ -7785,5 +7785,18 @@
     "start_date_local": "2026-07-06T12:34:42Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 1120.1,
+    "elevation_gain": 0.0,
+    "id": "19216801736",
+    "moving_time": 1626.0,
+    "name": "Wet again",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-07T11:35:57Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
