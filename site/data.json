@@ -5399,6 +5399,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/19216801736",
       "year": 2026
+    },
+    {
+      "date": "2026-07-08",
+      "hour": 12,
+      "name": "More efficient today",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19231658674",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10754,6 +10763,15 @@
           "distance": 1120.1,
           "elevation_gain": 0.0,
           "moving_time": 1626.0
+        },
+        "2026-07-08": {
+          "activity_ids": [
+            "19231658674"
+          ],
+          "count": 1,
+          "distance": 914.4,
+          "elevation_gain": 0.0,
+          "moving_time": 1417.0
         }
       },
       "Walk": {
@@ -10787,7 +10805,7 @@
       }
     }
   },
-  "generated_at": "2026-07-08T15:43:43.788006+00:00",
+  "generated_at": "2026-07-09T15:59:21.194652+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
