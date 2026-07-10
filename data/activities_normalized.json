@@ -7811,5 +7811,31 @@
     "start_date_local": "2026-07-08T12:35:40Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-09",
+    "distance": 1050.0,
+    "elevation_gain": 0.0,
+    "id": "19245345672",
+    "moving_time": 1362.0,
+    "name": "LP4's biggest fan",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-09T12:34:26Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 4935.8,
+    "elevation_gain": 16.0,
+    "id": "19256475456",
+    "moving_time": 1550.0,
+    "name": "Very tired lately",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-10T09:38:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
