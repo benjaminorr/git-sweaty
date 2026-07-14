@@ -7863,5 +7863,18 @@
     "start_date_local": "2026-07-12T08:11:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 5250.5,
+    "elevation_gain": 39.0,
+    "id": "19309199214",
+    "moving_time": 1638.0,
+    "name": "Another migraine monday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-14T08:17:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
