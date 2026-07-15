@@ -7876,5 +7876,18 @@
     "start_date_local": "2026-07-14T08:17:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 4908.2,
+    "elevation_gain": 2.0,
+    "id": "19323132877",
+    "moving_time": 1501.0,
+    "name": "Today I get to read my book and drink lemonade",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-15T08:34:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
