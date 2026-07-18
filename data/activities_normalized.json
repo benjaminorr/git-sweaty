@@ -7902,5 +7902,31 @@
     "start_date_local": "2026-07-17T09:42:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 1788.5,
+    "elevation_gain": 29.0,
+    "id": "19354656634",
+    "moving_time": 1256.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-17T17:02:00Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 7436.2,
+    "elevation_gain": 45.0,
+    "id": "19364278393",
+    "moving_time": 2216.0,
+    "name": "Car broke down and I got a headache",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-18T10:04:55Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
