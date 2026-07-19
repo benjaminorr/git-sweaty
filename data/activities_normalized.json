@@ -7928,5 +7928,18 @@
     "start_date_local": "2026-07-18T10:04:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 7005.1,
+    "elevation_gain": 21.0,
+    "id": "19378059476",
+    "moving_time": 2074.0,
+    "name": "I want my banjo back",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-19T10:13:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
