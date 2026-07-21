@@ -7941,5 +7941,31 @@
     "start_date_local": "2026-07-19T10:13:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 900.0,
+    "elevation_gain": 0.0,
+    "id": "19391027144",
+    "moving_time": 1428.0,
+    "name": "Today I get my banjo back",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-20T12:16:51Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 3199.4,
+    "elevation_gain": 56.0,
+    "id": "19394650321",
+    "moving_time": 2284.0,
+    "name": "Obtained the banjo; got harassed",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-20T16:18:20Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
