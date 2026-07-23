@@ -7967,5 +7967,18 @@
     "start_date_local": "2026-07-20T16:18:20Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-22",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "19420381258",
+    "moving_time": 1508.0,
+    "name": "No car :(",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-22T12:24:08Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]

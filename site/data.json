@@ -5516,6 +5516,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19394650321",
       "year": 2026
+    },
+    {
+      "date": "2026-07-22",
+      "hour": 12,
+      "name": "No car :(",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19420381258",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10970,6 +10979,15 @@
           "distance": 900.0,
           "elevation_gain": 0.0,
           "moving_time": 1428.0
+        },
+        "2026-07-22": {
+          "activity_ids": [
+            "19420381258"
+          ],
+          "count": 1,
+          "distance": 914.4,
+          "elevation_gain": 0.0,
+          "moving_time": 1508.0
         }
       },
       "Walk": {
@@ -11021,7 +11039,7 @@
       }
     }
   },
-  "generated_at": "2026-07-22T15:30:22.275735+00:00",
+  "generated_at": "2026-07-23T15:36:51.970656+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
