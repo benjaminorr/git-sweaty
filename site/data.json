@@ -5552,6 +5552,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/19488065270",
       "year": 2026
+    },
+    {
+      "date": "2026-07-28",
+      "hour": 11,
+      "name": "BMFS",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19502043587",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11042,6 +11051,15 @@
           "distance": 1100.0,
           "elevation_gain": 0.0,
           "moving_time": 1733.0
+        },
+        "2026-07-28": {
+          "activity_ids": [
+            "19502043587"
+          ],
+          "count": 1,
+          "distance": 1000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1657.0
         }
       },
       "Walk": {
@@ -11093,7 +11111,7 @@
       }
     }
   },
-  "generated_at": "2026-07-28T15:43:53.080837+00:00",
+  "generated_at": "2026-07-29T15:36:42.194204+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
