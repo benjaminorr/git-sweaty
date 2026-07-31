@@ -8032,5 +8032,31 @@
     "start_date_local": "2026-07-28T11:27:51Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "19531778252",
+    "moving_time": 1454.0,
+    "name": "Don't want to do research today",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-30T12:35:56Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 6189.0,
+    "elevation_gain": 12.0,
+    "id": "19543539801",
+    "moving_time": 1989.0,
+    "name": "3mo of injury \ud83e\udd15",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-31T10:14:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
