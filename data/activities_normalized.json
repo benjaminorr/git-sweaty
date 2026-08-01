@@ -8058,5 +8058,18 @@
     "start_date_local": "2026-07-31T10:14:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 1316.8,
+    "elevation_gain": 6.0,
+    "id": "19556661491",
+    "moving_time": 583.0,
+    "name": "Hurt too much :(",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-01T09:55:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
