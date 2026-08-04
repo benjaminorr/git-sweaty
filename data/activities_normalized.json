@@ -8084,5 +8084,18 @@
     "start_date_local": "2026-08-02T19:59:13Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "19585638307",
+    "moving_time": 1291.0,
+    "name": "Felt it in my chest",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-03T12:29:26Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]

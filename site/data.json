@@ -5597,6 +5597,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19576918489",
       "year": 2026
+    },
+    {
+      "date": "2026-08-03",
+      "hour": 12,
+      "name": "Felt it in my chest",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19585638307",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11123,6 +11132,15 @@
           "distance": 914.4,
           "elevation_gain": 0.0,
           "moving_time": 1454.0
+        },
+        "2026-08-03": {
+          "activity_ids": [
+            "19585638307"
+          ],
+          "count": 1,
+          "distance": 1000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1291.0
         }
       },
       "Walk": {
@@ -11183,7 +11201,7 @@
       }
     }
   },
-  "generated_at": "2026-08-03T15:52:00.508115+00:00",
+  "generated_at": "2026-08-04T15:45:33.625118+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
