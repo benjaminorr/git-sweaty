@@ -8097,5 +8097,18 @@
     "start_date_local": "2026-08-03T12:29:26Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 1025.0,
+    "elevation_gain": 0.0,
+    "id": "19600254235",
+    "moving_time": 1619.0,
+    "name": "Might be a nutrition issue",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-04T12:29:52Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
