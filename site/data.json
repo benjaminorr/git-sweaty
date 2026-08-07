@@ -5615,6 +5615,33 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/19600254235",
       "year": 2026
+    },
+    {
+      "date": "2026-08-05",
+      "hour": 12,
+      "name": "I got Chinese food yesterday",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19615278271",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-06",
+      "hour": 12,
+      "name": "\"watch out for the pee\"",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19629722505",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-07",
+      "hour": 10,
+      "name": "Didn't hurt as much today",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19641748655",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10509,6 +10536,15 @@
           "distance": 1316.8,
           "elevation_gain": 6.0,
           "moving_time": 583.0
+        },
+        "2026-08-07": {
+          "activity_ids": [
+            "19641748655"
+          ],
+          "count": 1,
+          "distance": 4935.0,
+          "elevation_gain": 14.0,
+          "moving_time": 1531.0
         }
       },
       "Swim": {
@@ -11159,6 +11195,24 @@
           "distance": 1025.0,
           "elevation_gain": 0.0,
           "moving_time": 1619.0
+        },
+        "2026-08-05": {
+          "activity_ids": [
+            "19615278271"
+          ],
+          "count": 1,
+          "distance": 914.4,
+          "elevation_gain": 0.0,
+          "moving_time": 1229.0
+        },
+        "2026-08-06": {
+          "activity_ids": [
+            "19629722505"
+          ],
+          "count": 1,
+          "distance": 1000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1500.0
         }
       },
       "Walk": {
@@ -11219,7 +11273,7 @@
       }
     }
   },
-  "generated_at": "2026-08-05T15:42:09.714321+00:00",
+  "generated_at": "2026-08-07T15:42:24.537893+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

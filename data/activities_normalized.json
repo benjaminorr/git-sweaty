@@ -8110,5 +8110,44 @@
     "start_date_local": "2026-08-04T12:29:52Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "19615278271",
+    "moving_time": 1229.0,
+    "name": "I got Chinese food yesterday",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-05T12:34:08Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "19629722505",
+    "moving_time": 1500.0,
+    "name": "\"watch out for the pee\"",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-06T12:30:57Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 4935.0,
+    "elevation_gain": 14.0,
+    "id": "19641748655",
+    "moving_time": 1531.0,
+    "name": "Didn't hurt as much today",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-07T10:14:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
