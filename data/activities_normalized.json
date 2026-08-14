@@ -8214,5 +8214,31 @@
     "start_date_local": "2026-08-12T12:36:06Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-13",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "19727889637",
+    "moving_time": 1272.0,
+    "name": "Kick day",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-13T12:37:35Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-14",
+    "distance": 7495.6,
+    "elevation_gain": 18.0,
+    "id": "19740026348",
+    "moving_time": 2172.0,
+    "name": "Too tired for my age",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-14T10:12:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
