@@ -8240,5 +8240,18 @@
     "start_date_local": "2026-08-14T10:12:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 6152.3,
+    "elevation_gain": 18.0,
+    "id": "19754790880",
+    "moving_time": 1708.0,
+    "name": "2x park + 2x track",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-15T11:21:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

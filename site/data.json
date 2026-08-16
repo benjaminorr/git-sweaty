@@ -5705,6 +5705,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19740026348",
       "year": 2026
+    },
+    {
+      "date": "2026-08-15",
+      "hour": 11,
+      "name": "2x park + 2x track",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19754790880",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10626,6 +10635,15 @@
           "distance": 7495.6,
           "elevation_gain": 18.0,
           "moving_time": 2172.0
+        },
+        "2026-08-15": {
+          "activity_ids": [
+            "19754790880"
+          ],
+          "count": 1,
+          "distance": 6152.3,
+          "elevation_gain": 18.0,
+          "moving_time": 1708.0
         }
       },
       "Swim": {
@@ -11399,7 +11417,7 @@
       }
     }
   },
-  "generated_at": "2026-08-15T15:09:19.907486+00:00",
+  "generated_at": "2026-08-16T15:10:07.441231+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
