@@ -8253,5 +8253,18 @@
     "start_date_local": "2026-08-15T11:21:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 4948.0,
+    "elevation_gain": 15.0,
+    "id": "19768575045",
+    "moving_time": 1496.0,
+    "name": "Long Strange Trip",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-16T11:04:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
