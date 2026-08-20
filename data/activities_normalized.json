@@ -8279,5 +8279,31 @@
     "start_date_local": "2026-08-18T10:02:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "19811778534",
+    "moving_time": 1546.0,
+    "name": "Campus not so quiet anymore",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-19T12:31:07Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 11039.5,
+    "elevation_gain": 23.0,
+    "id": "19822226652",
+    "moving_time": 4293.0,
+    "name": "Jetlag Recovery Assistance",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-20T06:37:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
