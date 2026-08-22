@@ -8305,5 +8305,18 @@
     "start_date_local": "2026-08-20T06:37:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "19839212550",
+    "moving_time": 1417.0,
+    "name": "First day of 19th grade",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-21T11:53:22Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]

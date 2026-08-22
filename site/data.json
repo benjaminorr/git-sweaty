@@ -5750,6 +5750,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19822226652",
       "year": 2026
+    },
+    {
+      "date": "2026-08-21",
+      "hour": 11,
+      "name": "First day of 19th grade",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19839212550",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11420,6 +11429,15 @@
           "distance": 1000.0,
           "elevation_gain": 0.0,
           "moving_time": 1546.0
+        },
+        "2026-08-21": {
+          "activity_ids": [
+            "19839212550"
+          ],
+          "count": 1,
+          "distance": 1000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1417.0
         }
       },
       "Walk": {
@@ -11489,7 +11507,7 @@
       }
     }
   },
-  "generated_at": "2026-08-21T15:21:47.075335+00:00",
+  "generated_at": "2026-08-22T15:09:59.678931+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
