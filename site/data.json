@@ -5759,6 +5759,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/19839212550",
       "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 15,
+      "name": "4 months of this mysterious injury",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19870359759",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10716,6 +10725,15 @@
           "distance": 11039.5,
           "elevation_gain": 23.0,
           "moving_time": 4293.0
+        },
+        "2026-08-23": {
+          "activity_ids": [
+            "19870359759"
+          ],
+          "count": 1,
+          "distance": 5250.0,
+          "elevation_gain": 15.0,
+          "moving_time": 1555.0
         }
       },
       "Swim": {
@@ -11507,7 +11525,7 @@
       }
     }
   },
-  "generated_at": "2026-08-23T15:11:14.885793+00:00",
+  "generated_at": "2026-08-24T15:27:56.150336+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

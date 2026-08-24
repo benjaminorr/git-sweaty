@@ -8318,5 +8318,18 @@
     "start_date_local": "2026-08-21T11:53:22Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 5250.0,
+    "elevation_gain": 15.0,
+    "id": "19870359759",
+    "moving_time": 1555.0,
+    "name": "4 months of this mysterious injury",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-23T15:31:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
