@@ -5768,6 +5768,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19870359759",
       "year": 2026
+    },
+    {
+      "date": "2026-08-24",
+      "hour": 20,
+      "name": "Crowded pool ft. Yanze",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19886179209",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-25",
+      "hour": 9,
+      "name": "Leg felt silly",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19893570865",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10734,6 +10752,15 @@
           "distance": 5250.0,
           "elevation_gain": 15.0,
           "moving_time": 1555.0
+        },
+        "2026-08-25": {
+          "activity_ids": [
+            "19893570865"
+          ],
+          "count": 1,
+          "distance": 4803.5,
+          "elevation_gain": 18.0,
+          "moving_time": 1452.0
         }
       },
       "Swim": {
@@ -11456,6 +11483,15 @@
           "distance": 1000.0,
           "elevation_gain": 0.0,
           "moving_time": 1417.0
+        },
+        "2026-08-24": {
+          "activity_ids": [
+            "19886179209"
+          ],
+          "count": 1,
+          "distance": 914.4,
+          "elevation_gain": 0.0,
+          "moving_time": 1269.0
         }
       },
       "Walk": {
@@ -11525,7 +11561,7 @@
       }
     }
   },
-  "generated_at": "2026-08-24T15:27:56.150336+00:00",
+  "generated_at": "2026-08-25T15:32:33.887094+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

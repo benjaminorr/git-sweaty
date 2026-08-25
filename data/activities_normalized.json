@@ -8331,5 +8331,31 @@
     "start_date_local": "2026-08-23T15:31:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "19886179209",
+    "moving_time": 1269.0,
+    "name": "Crowded pool ft. Yanze",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-24T20:21:44Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 4803.5,
+    "elevation_gain": 18.0,
+    "id": "19893570865",
+    "moving_time": 1452.0,
+    "name": "Leg felt silly",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-25T09:40:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
