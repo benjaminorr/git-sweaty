@@ -5795,6 +5795,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/19906963454",
       "year": 2026
+    },
+    {
+      "date": "2026-08-28",
+      "hour": 6,
+      "name": "Yanze social hour",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19934775975",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10770,6 +10779,15 @@
           "distance": 4803.5,
           "elevation_gain": 18.0,
           "moving_time": 1452.0
+        },
+        "2026-08-28": {
+          "activity_ids": [
+            "19934775975"
+          ],
+          "count": 1,
+          "distance": 9787.4,
+          "elevation_gain": 18.0,
+          "moving_time": 3856.0
         }
       },
       "Swim": {
@@ -11579,7 +11597,7 @@
       }
     }
   },
-  "generated_at": "2026-08-28T00:08:49.383865+00:00",
+  "generated_at": "2026-08-28T23:45:30.748510+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

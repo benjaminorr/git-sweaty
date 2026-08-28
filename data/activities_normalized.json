@@ -8370,5 +8370,18 @@
     "start_date_local": "2026-08-26T07:29:39Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 9787.4,
+    "elevation_gain": 18.0,
+    "id": "19934775975",
+    "moving_time": 3856.0,
+    "name": "Yanze social hour",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-28T06:36:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
