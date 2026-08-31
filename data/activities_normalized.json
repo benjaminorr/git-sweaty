@@ -8383,5 +8383,31 @@
     "start_date_local": "2026-08-28T06:36:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 1143.0,
+    "elevation_gain": 0.0,
+    "id": "19968855946",
+    "moving_time": 1792.0,
+    "name": "Feels good when I eat lunch",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-30T16:20:09Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 5556.6,
+    "elevation_gain": 15.0,
+    "id": "19977162622",
+    "moving_time": 1470.0,
+    "name": "Landlord \ud83d\ude12",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-31T10:49:50Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

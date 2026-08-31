@@ -5804,6 +5804,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19934775975",
       "year": 2026
+    },
+    {
+      "date": "2026-08-30",
+      "hour": 16,
+      "name": "Feels good when I eat lunch",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19968855946",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-31",
+      "hour": 10,
+      "name": "Landlord \ud83d\ude12",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19977162622",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10788,6 +10806,15 @@
           "distance": 9787.4,
           "elevation_gain": 18.0,
           "moving_time": 3856.0
+        },
+        "2026-08-31": {
+          "activity_ids": [
+            "19977162622"
+          ],
+          "count": 1,
+          "distance": 5556.6,
+          "elevation_gain": 15.0,
+          "moving_time": 1470.0
         }
       },
       "Swim": {
@@ -11528,6 +11555,15 @@
           "distance": 900.0,
           "elevation_gain": 0.0,
           "moving_time": 1177.0
+        },
+        "2026-08-30": {
+          "activity_ids": [
+            "19968855946"
+          ],
+          "count": 1,
+          "distance": 1143.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1792.0
         }
       },
       "Walk": {
@@ -11597,7 +11633,7 @@
       }
     }
   },
-  "generated_at": "2026-08-30T18:14:06.927512+00:00",
+  "generated_at": "2026-08-31T20:27:01.316213+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
