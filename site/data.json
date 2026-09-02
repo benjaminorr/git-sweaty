@@ -5822,6 +5822,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19977162622",
       "year": 2026
+    },
+    {
+      "date": "2026-09-02",
+      "hour": 12,
+      "name": "Slammed",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/20008203357",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11564,6 +11573,15 @@
           "distance": 1143.0,
           "elevation_gain": 0.0,
           "moving_time": 1792.0
+        },
+        "2026-09-02": {
+          "activity_ids": [
+            "20008203357"
+          ],
+          "count": 1,
+          "distance": 914.4,
+          "elevation_gain": 0.0,
+          "moving_time": 1429.0
         }
       },
       "Walk": {
@@ -11633,7 +11651,7 @@
       }
     }
   },
-  "generated_at": "2026-09-01T18:01:57.841572+00:00",
+  "generated_at": "2026-09-02T18:12:52.745909+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

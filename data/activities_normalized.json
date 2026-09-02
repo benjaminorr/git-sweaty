@@ -8409,5 +8409,18 @@
     "start_date_local": "2026-08-31T10:49:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "20008203357",
+    "moving_time": 1429.0,
+    "name": "Slammed",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-02T12:31:00Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
