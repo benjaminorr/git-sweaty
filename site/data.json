@@ -5840,6 +5840,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/20021467947",
       "year": 2026
+    },
+    {
+      "date": "2026-09-04",
+      "hour": 7,
+      "name": "Organic figs for the squirrels",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20032217414",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10833,6 +10842,15 @@
           "distance": 5556.6,
           "elevation_gain": 15.0,
           "moving_time": 1470.0
+        },
+        "2026-09-04": {
+          "activity_ids": [
+            "20032217414"
+          ],
+          "count": 1,
+          "distance": 3675.9,
+          "elevation_gain": 13.0,
+          "moving_time": 1118.0
         }
       },
       "Swim": {
@@ -11669,7 +11687,7 @@
       }
     }
   },
-  "generated_at": "2026-09-03T18:11:22.996457+00:00",
+  "generated_at": "2026-09-04T17:52:57.382990+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

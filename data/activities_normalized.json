@@ -8435,5 +8435,18 @@
     "start_date_local": "2026-09-03T11:20:18Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 3675.9,
+    "elevation_gain": 13.0,
+    "id": "20032217414",
+    "moving_time": 1118.0,
+    "name": "Organic figs for the squirrels",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-04T07:18:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
