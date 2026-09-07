@@ -8448,5 +8448,18 @@
     "start_date_local": "2026-09-04T07:18:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 4864.3,
+    "elevation_gain": 16.0,
+    "id": "20074323117",
+    "moving_time": 1369.0,
+    "name": "Utah and back again (yay Connor)",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-07T10:03:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
