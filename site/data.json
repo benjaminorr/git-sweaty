@@ -5858,6 +5858,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20074323117",
       "year": 2026
+    },
+    {
+      "date": "2026-09-08",
+      "hour": 9,
+      "name": "I've missed Newton Hill",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20088484407",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10869,6 +10878,15 @@
           "distance": 4864.3,
           "elevation_gain": 16.0,
           "moving_time": 1369.0
+        },
+        "2026-09-08": {
+          "activity_ids": [
+            "20088484407"
+          ],
+          "count": 1,
+          "distance": 6393.7,
+          "elevation_gain": 80.0,
+          "moving_time": 1875.0
         }
       },
       "Swim": {
@@ -11705,7 +11723,7 @@
       }
     }
   },
-  "generated_at": "2026-09-07T18:54:59.743607+00:00",
+  "generated_at": "2026-09-08T18:10:22.686827+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

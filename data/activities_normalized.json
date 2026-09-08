@@ -8461,5 +8461,18 @@
     "start_date_local": "2026-09-07T10:03:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-08",
+    "distance": 6393.7,
+    "elevation_gain": 80.0,
+    "id": "20088484407",
+    "moving_time": 1875.0,
+    "name": "I've missed Newton Hill",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-08T09:21:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
