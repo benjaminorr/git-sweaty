@@ -5867,6 +5867,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20088484407",
       "year": 2026
+    },
+    {
+      "date": "2026-09-09",
+      "hour": 7,
+      "name": "Still asleep",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/20101395865",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11654,6 +11663,15 @@
           "distance": 823.0,
           "elevation_gain": 0.0,
           "moving_time": 1040.0
+        },
+        "2026-09-09": {
+          "activity_ids": [
+            "20101395865"
+          ],
+          "count": 1,
+          "distance": 914.4,
+          "elevation_gain": 0.0,
+          "moving_time": 1524.0
         }
       },
       "Walk": {
@@ -11723,7 +11741,7 @@
       }
     }
   },
-  "generated_at": "2026-09-08T18:10:22.686827+00:00",
+  "generated_at": "2026-09-09T18:07:06.979626+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

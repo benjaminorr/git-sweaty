@@ -8474,5 +8474,18 @@
     "start_date_local": "2026-09-08T09:21:59Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-09",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "20101395865",
+    "moving_time": 1524.0,
+    "name": "Still asleep",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-09T07:12:37Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
