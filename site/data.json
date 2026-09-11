@@ -5876,6 +5876,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/20101395865",
       "year": 2026
+    },
+    {
+      "date": "2026-09-11",
+      "hour": 7,
+      "name": "2 sleepy 2 care",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/20129472746",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11672,6 +11681,15 @@
           "distance": 914.4,
           "elevation_gain": 0.0,
           "moving_time": 1524.0
+        },
+        "2026-09-11": {
+          "activity_ids": [
+            "20129472746"
+          ],
+          "count": 1,
+          "distance": 914.4,
+          "elevation_gain": 0.0,
+          "moving_time": 1538.0
         }
       },
       "Walk": {
@@ -11741,7 +11759,7 @@
       }
     }
   },
-  "generated_at": "2026-09-10T17:56:32.903784+00:00",
+  "generated_at": "2026-09-11T17:58:44.810671+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
