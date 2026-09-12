@@ -8500,5 +8500,18 @@
     "start_date_local": "2026-09-11T07:32:15Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 4598.7,
+    "elevation_gain": 43.0,
+    "id": "20146745136",
+    "moving_time": 1390.0,
+    "name": "Felt weird and weak and stuff",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-12T11:55:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
