@@ -5903,6 +5903,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/20163672928",
       "year": 2026
+    },
+    {
+      "date": "2026-09-14",
+      "hour": 19,
+      "name": "Slept bad",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20177816251",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10932,6 +10941,15 @@
           "distance": 4598.7,
           "elevation_gain": 43.0,
           "moving_time": 1390.0
+        },
+        "2026-09-14": {
+          "activity_ids": [
+            "20177816251"
+          ],
+          "count": 1,
+          "distance": 6073.8,
+          "elevation_gain": 19.0,
+          "moving_time": 1651.0
         }
       },
       "Swim": {
@@ -11795,7 +11813,7 @@
       }
     }
   },
-  "generated_at": "2026-09-14T19:40:31.427581+00:00",
+  "generated_at": "2026-09-15T18:34:09.646037+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
