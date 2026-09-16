@@ -8539,5 +8539,18 @@
     "start_date_local": "2026-09-14T19:07:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-15",
+    "distance": 4579.9,
+    "elevation_gain": 16.0,
+    "id": "20192822826",
+    "moving_time": 1310.0,
+    "name": "Got kicked off the track",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-15T19:12:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

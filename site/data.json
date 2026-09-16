@@ -5912,6 +5912,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20177816251",
       "year": 2026
+    },
+    {
+      "date": "2026-09-15",
+      "hour": 19,
+      "name": "Got kicked off the track",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20192822826",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10950,6 +10959,15 @@
           "distance": 6073.8,
           "elevation_gain": 19.0,
           "moving_time": 1651.0
+        },
+        "2026-09-15": {
+          "activity_ids": [
+            "20192822826"
+          ],
+          "count": 1,
+          "distance": 4579.9,
+          "elevation_gain": 16.0,
+          "moving_time": 1310.0
         }
       },
       "Swim": {
@@ -11813,7 +11831,7 @@
       }
     }
   },
-  "generated_at": "2026-09-15T18:34:09.646037+00:00",
+  "generated_at": "2026-09-16T18:32:09.777553+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
