@@ -5921,6 +5921,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20192822826",
       "year": 2026
+    },
+    {
+      "date": "2026-09-16",
+      "hour": 18,
+      "name": "Sick today",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20207162970",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11827,11 +11836,20 @@
           "distance": 3005.4,
           "elevation_gain": 52.0,
           "moving_time": 2602.0
+        },
+        "2026-09-16": {
+          "activity_ids": [
+            "20207162970"
+          ],
+          "count": 1,
+          "distance": 1686.3,
+          "elevation_gain": 12.0,
+          "moving_time": 1615.0
         }
       }
     }
   },
-  "generated_at": "2026-09-16T18:32:09.777553+00:00",
+  "generated_at": "2026-09-17T18:40:03.967686+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
