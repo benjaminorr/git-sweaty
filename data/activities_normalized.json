@@ -8572,11 +8572,24 @@
     "elevation_gain": 12.0,
     "id": "20231460313",
     "moving_time": 1266.0,
-    "name": "Afternoon Walk",
+    "name": "Still sick",
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-09-18T15:40:14Z",
     "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-21",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "20270432709",
+    "moving_time": 1499.0,
+    "name": "Get Back",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-21T12:35:04Z",
+    "type": "Swim",
     "year": 2026
   }
 ]
