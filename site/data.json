@@ -5948,6 +5948,24 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/20270432709",
       "year": 2026
+    },
+    {
+      "date": "2026-09-23",
+      "hour": 17,
+      "name": "LMB",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20302765581",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-24",
+      "hour": 11,
+      "name": "Angry leg",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/20312282536",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10995,6 +11013,15 @@
           "distance": 4579.9,
           "elevation_gain": 16.0,
           "moving_time": 1310.0
+        },
+        "2026-09-23": {
+          "activity_ids": [
+            "20302765581"
+          ],
+          "count": 1,
+          "distance": 6904.3,
+          "elevation_gain": 80.0,
+          "moving_time": 1940.0
         }
       },
       "Swim": {
@@ -11798,6 +11825,15 @@
           "distance": 914.4,
           "elevation_gain": 0.0,
           "moving_time": 1499.0
+        },
+        "2026-09-24": {
+          "activity_ids": [
+            "20312282536"
+          ],
+          "count": 1,
+          "distance": 914.4,
+          "elevation_gain": 0.0,
+          "moving_time": 1098.0
         }
       },
       "Walk": {
@@ -11885,7 +11921,7 @@
       }
     }
   },
-  "generated_at": "2026-09-23T18:43:10.912333+00:00",
+  "generated_at": "2026-09-24T18:44:11.920562+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
