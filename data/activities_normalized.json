@@ -8617,5 +8617,18 @@
     "start_date_local": "2026-09-24T11:34:06Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 823.0,
+    "elevation_gain": 0.0,
+    "id": "20326429608",
+    "moving_time": 977.0,
+    "name": "Fin + kick",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-25T12:42:44Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
