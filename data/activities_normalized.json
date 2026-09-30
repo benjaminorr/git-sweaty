@@ -8656,5 +8656,18 @@
     "start_date_local": "2026-09-29T12:32:53Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "20391779119",
+    "moving_time": 1437.0,
+    "name": "This used to be a running account \ud83e\udea6",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-30T07:29:26Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
