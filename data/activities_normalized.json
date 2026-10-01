@@ -8669,5 +8669,18 @@
     "start_date_local": "2026-09-30T07:29:26Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "20409476548",
+    "moving_time": 1447.0,
+    "name": "Katzman tonight \ud83e\udd70\ud83c\udfb8",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-10-01T12:34:27Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
