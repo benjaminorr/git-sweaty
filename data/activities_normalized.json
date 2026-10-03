@@ -8682,5 +8682,18 @@
     "start_date_local": "2026-10-01T12:34:27Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 5615.4,
+    "elevation_gain": 24.0,
+    "id": "20434518156",
+    "moving_time": 1849.0,
+    "name": "Long Fall runs \ud83d\udc94",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-03T10:02:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
