@@ -8695,5 +8695,31 @@
     "start_date_local": "2026-10-03T10:02:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 3588.1,
+    "elevation_gain": 66.0,
+    "id": "20452306250",
+    "moving_time": 3757.0,
+    "name": "Vamp in the middle",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-04T13:01:12Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-05",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "20459141875",
+    "moving_time": 1237.0,
+    "name": "(\u2060\u02d8\u2060\uff65\u2060_\u2060\uff65\u2060\u02d8\u2060)",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-10-05T07:36:38Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
