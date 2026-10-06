@@ -8721,5 +8721,18 @@
     "start_date_local": "2026-10-05T07:36:38Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-10-06",
+    "distance": 4306.9,
+    "elevation_gain": 26.0,
+    "id": "20477649688",
+    "moving_time": 1235.0,
+    "name": "Back pain \ud83d\udd25\ud83d\udd25",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-06T13:01:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
