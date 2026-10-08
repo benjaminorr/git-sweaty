@@ -8747,5 +8747,18 @@
     "start_date_local": "2026-10-07T07:39:14Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-10-08",
+    "distance": 4735.3,
+    "elevation_gain": 16.0,
+    "id": "20502909368",
+    "moving_time": 1411.0,
+    "name": "Went to PT this morning",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-08T09:40:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
