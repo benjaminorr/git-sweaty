@@ -8773,5 +8773,18 @@
     "start_date_local": "2026-10-10T09:18:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 2718.4,
+    "elevation_gain": 41.0,
+    "id": "20533110739",
+    "moving_time": 1722.0,
+    "name": "Music store errand",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-10T16:04:34Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

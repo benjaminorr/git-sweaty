@@ -6074,6 +6074,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20528577121",
       "year": 2026
+    },
+    {
+      "date": "2026-10-10",
+      "hour": 16,
+      "name": "Music store errand",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20533110739",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12133,11 +12142,20 @@
           "distance": 3588.1,
           "elevation_gain": 66.0,
           "moving_time": 3757.0
+        },
+        "2026-10-10": {
+          "activity_ids": [
+            "20533110739"
+          ],
+          "count": 1,
+          "distance": 2718.4,
+          "elevation_gain": 41.0,
+          "moving_time": 1722.0
         }
       }
     }
   },
-  "generated_at": "2026-10-10T19:02:42.161338+00:00",
+  "generated_at": "2026-10-11T19:15:47.255615+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
