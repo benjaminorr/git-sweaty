@@ -8786,5 +8786,18 @@
     "start_date_local": "2026-10-10T16:04:34Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-12",
+    "distance": 7252.6,
+    "elevation_gain": 29.0,
+    "id": "20554765399",
+    "moving_time": 2152.0,
+    "name": "I love when they close the pool without saying so",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-12T09:52:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
