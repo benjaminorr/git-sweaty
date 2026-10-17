@@ -8812,5 +8812,18 @@
     "start_date_local": "2026-10-14T08:42:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 6075.6,
+    "elevation_gain": 24.0,
+    "id": "20623357802",
+    "moving_time": 1694.0,
+    "name": "Glute bridges",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-17T10:51:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
