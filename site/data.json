@@ -6110,6 +6110,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20623357802",
       "year": 2026
+    },
+    {
+      "date": "2026-10-18",
+      "hour": 16,
+      "name": "Where'd the bunnies go",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20640388939",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11229,6 +11238,15 @@
           "distance": 6075.6,
           "elevation_gain": 24.0,
           "moving_time": 1694.0
+        },
+        "2026-10-18": {
+          "activity_ids": [
+            "20640388939"
+          ],
+          "count": 1,
+          "distance": 5898.1,
+          "elevation_gain": 19.0,
+          "moving_time": 1575.0
         }
       },
       "Swim": {
@@ -12209,7 +12227,7 @@
       }
     }
   },
-  "generated_at": "2026-10-18T17:38:18.085733+00:00",
+  "generated_at": "2026-10-19T20:16:59.033640+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

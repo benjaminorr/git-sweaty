@@ -8825,5 +8825,18 @@
     "start_date_local": "2026-10-17T10:51:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 5898.1,
+    "elevation_gain": 19.0,
+    "id": "20640388939",
+    "moving_time": 1575.0,
+    "name": "Where'd the bunnies go",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-18T16:11:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
