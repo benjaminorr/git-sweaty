@@ -8838,5 +8838,31 @@
     "start_date_local": "2026-10-18T16:11:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-19",
+    "distance": 5120.3,
+    "elevation_gain": 18.0,
+    "id": "20653409683",
+    "moving_time": 1334.0,
+    "name": "Back pain 2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-19T17:50:19Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 868.7,
+    "elevation_gain": 0.0,
+    "id": "20664031393",
+    "moving_time": 1385.0,
+    "name": "Car problems & medical bills",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-10-20T12:35:28Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
