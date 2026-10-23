@@ -8877,5 +8877,18 @@
     "start_date_local": "2026-10-21T09:20:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-23",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "20702660972",
+    "moving_time": 1452.0,
+    "name": "Atrophy",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-10-23T12:18:10Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
