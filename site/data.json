@@ -6155,6 +6155,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/20702660972",
       "year": 2026
+    },
+    {
+      "date": "2026-10-24",
+      "hour": 10,
+      "name": "Not cut out for this",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20714832693",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11301,6 +11310,15 @@
           "distance": 6382.2,
           "elevation_gain": 30.0,
           "moving_time": 1783.0
+        },
+        "2026-10-24": {
+          "activity_ids": [
+            "20714832693"
+          ],
+          "count": 1,
+          "distance": 6924.0,
+          "elevation_gain": 16.0,
+          "moving_time": 2082.0
         }
       },
       "Swim": {
@@ -12299,7 +12317,7 @@
       }
     }
   },
-  "generated_at": "2026-10-23T18:47:14.667746+00:00",
+  "generated_at": "2026-10-24T17:42:08.782190+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

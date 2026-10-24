@@ -8890,5 +8890,18 @@
     "start_date_local": "2026-10-23T12:18:10Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 6924.0,
+    "elevation_gain": 16.0,
+    "id": "20714832693",
+    "moving_time": 2082.0,
+    "name": "Not cut out for this",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-24T10:58:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
