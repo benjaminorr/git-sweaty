@@ -6164,6 +6164,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20714832693",
       "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 16,
+      "name": "Dry skin",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/20730982857",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-26",
+      "hour": 10,
+      "name": "Crazy month approaching",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20738035191",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11319,6 +11337,15 @@
           "distance": 6924.0,
           "elevation_gain": 16.0,
           "moving_time": 2082.0
+        },
+        "2026-10-26": {
+          "activity_ids": [
+            "20738035191"
+          ],
+          "count": 1,
+          "distance": 5198.1,
+          "elevation_gain": 81.0,
+          "moving_time": 1597.0
         }
       },
       "Swim": {
@@ -12212,6 +12239,15 @@
           "distance": 914.4,
           "elevation_gain": 0.0,
           "moving_time": 1452.0
+        },
+        "2026-10-25": {
+          "activity_ids": [
+            "20730982857"
+          ],
+          "count": 1,
+          "distance": 1005.8,
+          "elevation_gain": 0.0,
+          "moving_time": 1632.0
         }
       },
       "Walk": {
@@ -12317,7 +12353,7 @@
       }
     }
   },
-  "generated_at": "2026-10-25T17:56:59.942962+00:00",
+  "generated_at": "2026-10-26T20:12:48.830746+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
