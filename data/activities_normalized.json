@@ -8955,5 +8955,18 @@
     "start_date_local": "2026-10-28T16:30:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "20792903521",
+    "moving_time": 1495.0,
+    "name": "Big ol interview yesterday",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-10-30T11:44:27Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
