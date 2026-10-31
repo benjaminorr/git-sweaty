@@ -8968,5 +8968,18 @@
     "start_date_local": "2026-10-30T11:44:27Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 13283.3,
+    "elevation_gain": 223.0,
+    "id": "20807669716",
+    "moving_time": 4443.0,
+    "name": "Happy 1y since that dog bit my butt",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-31T12:27:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
