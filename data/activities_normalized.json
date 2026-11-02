@@ -8981,5 +8981,18 @@
     "start_date_local": "2026-10-31T12:27:22Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-02",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "20832353974",
+    "moving_time": 1550.0,
+    "name": "Leftover Chinese",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-02T12:32:36Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
