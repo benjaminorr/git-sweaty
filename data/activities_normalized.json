@@ -8994,5 +8994,18 @@
     "start_date_local": "2026-11-02T12:32:36Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 5266.0,
+    "elevation_gain": 94.0,
+    "id": "20844231029",
+    "moving_time": 1598.0,
+    "name": "Anxiety this week  \ud83d\udcc8\ud83d\udcc8",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-03T10:20:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
