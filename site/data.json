@@ -6245,6 +6245,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/20859806196",
       "year": 2026
+    },
+    {
+      "date": "2026-11-04",
+      "hour": 15,
+      "name": "Companies should tell you why they don't like you",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20863029442",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12475,11 +12484,20 @@
           "distance": 2718.4,
           "elevation_gain": 41.0,
           "moving_time": 1722.0
+        },
+        "2026-11-04": {
+          "activity_ids": [
+            "20863029442"
+          ],
+          "count": 1,
+          "distance": 3753.6,
+          "elevation_gain": 68.0,
+          "moving_time": 3017.0
         }
       }
     }
   },
-  "generated_at": "2026-11-04T20:59:01.870380+00:00",
+  "generated_at": "2026-11-05T21:16:09.907183+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

@@ -9020,5 +9020,18 @@
     "start_date_local": "2026-11-04T12:34:53Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 3753.6,
+    "elevation_gain": 68.0,
+    "id": "20863029442",
+    "moving_time": 3017.0,
+    "name": "Companies should tell you why they don't like you",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-04T15:58:29Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
