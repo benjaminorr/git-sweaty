@@ -9046,5 +9046,18 @@
     "start_date_local": "2026-11-06T07:23:58Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 5987.2,
+    "elevation_gain": 26.0,
+    "id": "20911388759",
+    "moving_time": 1517.0,
+    "name": "Sleepyhead ben",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-08T11:18:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
