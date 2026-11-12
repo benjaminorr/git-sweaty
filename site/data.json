@@ -6281,6 +6281,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20936651130",
       "year": 2026
+    },
+    {
+      "date": "2026-11-11",
+      "hour": 16,
+      "name": "Testing the waters",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20952598664",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11499,6 +11508,15 @@
           "distance": 4730.3,
           "elevation_gain": 21.0,
           "moving_time": 1302.0
+        },
+        "2026-11-11": {
+          "activity_ids": [
+            "20952598664"
+          ],
+          "count": 1,
+          "distance": 5900.2,
+          "elevation_gain": 19.0,
+          "moving_time": 1618.0
         }
       },
       "Swim": {
@@ -12551,7 +12569,7 @@
       }
     }
   },
-  "generated_at": "2026-11-11T21:38:27.313218+00:00",
+  "generated_at": "2026-11-12T21:38:34.976040+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",

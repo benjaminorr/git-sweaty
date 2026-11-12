@@ -9072,5 +9072,18 @@
     "start_date_local": "2026-11-10T13:05:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 5900.2,
+    "elevation_gain": 19.0,
+    "id": "20952598664",
+    "moving_time": 1618.0,
+    "name": "Testing the waters",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-11T16:14:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
