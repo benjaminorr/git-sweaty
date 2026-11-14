@@ -9098,5 +9098,18 @@
     "start_date_local": "2026-11-13T12:34:40Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 16125.5,
+    "elevation_gain": 153.0,
+    "id": "20988375839",
+    "moving_time": 4849.0,
+    "name": "Lost my gel??",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-14T12:17:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

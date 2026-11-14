@@ -6299,6 +6299,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/20974842206",
       "year": 2026
+    },
+    {
+      "date": "2026-11-14",
+      "hour": 12,
+      "name": "Lost my gel??",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20988375839",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11526,6 +11535,15 @@
           "distance": 5900.2,
           "elevation_gain": 19.0,
           "moving_time": 1618.0
+        },
+        "2026-11-14": {
+          "activity_ids": [
+            "20988375839"
+          ],
+          "count": 1,
+          "distance": 16125.5,
+          "elevation_gain": 153.0,
+          "moving_time": 4849.0
         }
       },
       "Swim": {
@@ -12587,7 +12605,7 @@
       }
     }
   },
-  "generated_at": "2026-11-13T21:03:36.476227+00:00",
+  "generated_at": "2026-11-14T19:33:10.594445+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
