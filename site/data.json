@@ -6308,6 +6308,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20988375839",
       "year": 2026
+    },
+    {
+      "date": "2026-11-16",
+      "hour": 12,
+      "name": "(\u2060*\u2060\u30fb\u2060\uff5e\u2060\u30fb\u2060*\u2060)",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/21011548877",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12491,6 +12500,15 @@
           "distance": 914.4,
           "elevation_gain": 0.0,
           "moving_time": 1502.0
+        },
+        "2026-11-16": {
+          "activity_ids": [
+            "21011548877"
+          ],
+          "count": 1,
+          "distance": 1097.3,
+          "elevation_gain": 0.0,
+          "moving_time": 1773.0
         }
       },
       "Walk": {
@@ -12605,7 +12623,7 @@
       }
     }
   },
-  "generated_at": "2026-11-15T20:00:46.358686+00:00",
+  "generated_at": "2026-11-16T23:34:05.360184+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
