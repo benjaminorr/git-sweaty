@@ -6326,6 +6326,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/21024453668",
       "year": 2026
+    },
+    {
+      "date": "2026-11-18",
+      "hour": 15,
+      "name": "I found Saturday's gel",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21039303746",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11571,6 +11580,15 @@
           "distance": 5173.1,
           "elevation_gain": 17.0,
           "moving_time": 1242.0
+        },
+        "2026-11-18": {
+          "activity_ids": [
+            "21039303746"
+          ],
+          "count": 1,
+          "distance": 6024.1,
+          "elevation_gain": 93.0,
+          "moving_time": 1626.0
         }
       },
       "Swim": {
@@ -12641,7 +12659,7 @@
       }
     }
   },
-  "generated_at": "2026-11-17T22:43:11.004916+00:00",
+  "generated_at": "2026-11-18T22:24:57.399331+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
