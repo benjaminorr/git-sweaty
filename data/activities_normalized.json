@@ -9150,5 +9150,18 @@
     "start_date_local": "2026-11-18T15:08:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "21049509682",
+    "moving_time": 1422.0,
+    "name": "I dreamt I had eczema",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-19T12:34:14Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
