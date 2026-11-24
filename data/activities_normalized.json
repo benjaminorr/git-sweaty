@@ -9202,5 +9202,18 @@
     "start_date_local": "2026-11-23T11:29:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "21110234874",
+    "moving_time": 1480.0,
+    "name": "five different things and none of them good!",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-24T12:35:06Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]

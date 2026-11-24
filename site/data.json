@@ -6371,6 +6371,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/21096948258",
       "year": 2026
+    },
+    {
+      "date": "2026-11-24",
+      "hour": 12,
+      "name": "five different things and none of them good!",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/21110234874",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12608,6 +12617,15 @@
           "distance": 914.4,
           "elevation_gain": 0.0,
           "moving_time": 1402.0
+        },
+        "2026-11-24": {
+          "activity_ids": [
+            "21110234874"
+          ],
+          "count": 1,
+          "distance": 914.4,
+          "elevation_gain": 0.0,
+          "moving_time": 1480.0
         }
       },
       "Walk": {
@@ -12731,7 +12749,7 @@
       }
     }
   },
-  "generated_at": "2026-11-24T01:57:00.513752+00:00",
+  "generated_at": "2026-11-24T23:41:16.612485+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
