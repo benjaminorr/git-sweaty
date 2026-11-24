@@ -9176,5 +9176,31 @@
     "start_date_local": "2026-11-21T12:11:32Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-22",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "21089267987",
+    "moving_time": 1402.0,
+    "name": "Dark afternoon swim w Yanze",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-22T16:25:03Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-23",
+    "distance": 7559.8,
+    "elevation_gain": 122.0,
+    "id": "21096948258",
+    "moving_time": 2124.0,
+    "name": "low sense of urgency",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-23T11:29:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
