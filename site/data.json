@@ -6384,7 +6384,7 @@
     {
       "date": "2026-11-25",
       "hour": 16,
-      "name": "Afternoon Run",
+      "name": "Counterclockwise in the dark",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/21125214719",
@@ -12767,7 +12767,7 @@
       }
     }
   },
-  "generated_at": "2026-11-25T23:24:23.073723+00:00",
+  "generated_at": "2026-11-26T23:23:55.554876+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/112678513",
   "repo": "benjaminorr/git-sweaty",
