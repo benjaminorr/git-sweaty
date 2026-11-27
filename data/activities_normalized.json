@@ -9228,5 +9228,18 @@
     "start_date_local": "2026-11-25T16:27:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-27",
+    "distance": 4278.6,
+    "elevation_gain": 62.0,
+    "id": "21144924652",
+    "moving_time": 1225.0,
+    "name": "In need of hibernation",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-27T11:49:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
